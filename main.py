@@ -14,3 +14,4 @@ async def on_ready():
     print("yooooo")
 
 client.run(getenv("DISCORD_BOT_TOKEN"))
+#test commit belkarx
